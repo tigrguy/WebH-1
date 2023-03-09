@@ -1,3 +1,17 @@
 .description {
     margin-left: 2%;
 }
+
+body {
+    background-color: rgba(99, 99, 99, 0.201);
+    font-size: 25px;
+}
+
+img {
+    border-radius: 20px;
+}
+
+.container {
+    text-align: center;
+}
+
